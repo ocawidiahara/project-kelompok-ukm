@@ -1,0 +1,16 @@
+header img {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+#hero img {
+  max-height: 300px;
+  max-width: 300px;
+}
+
+#kelas {
+  margin: 0 auto;
+}
+#kelas .card {
+  margin: 30px;
+}
